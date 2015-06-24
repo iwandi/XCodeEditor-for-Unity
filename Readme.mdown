@@ -1,3 +1,7 @@
+# Fork
+
+This is a fork. This fork is created to compile all code into a single dll and remove all references to Unity
+
 # XCode Editor for Unity
 
 ## OVERVIEW
